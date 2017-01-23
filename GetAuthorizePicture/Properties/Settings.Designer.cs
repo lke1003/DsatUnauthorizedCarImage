@@ -25,7 +25,7 @@ namespace GetAuthorizePicture.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Server=localhost\\Centrak;Database=aomen;User Id=sa;Password=h!@#456h;")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Server=localhost\\Centrak;Database=aomen;User Id=sa;Password=xxxxxxx;")]
         public string Connectionstring {
             get {
                 return ((string)(this["Connectionstring"]));

@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="Connectionstring" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">Server=localhost\Centrak;Database=aomen;User Id=sa;Password=h!@#456h;</Value>
+      <Value Profile="(Default)">Server=localhost\Centrak;Database=aomen;User Id=sa;Password=xxxxxxx;</Value>
     </Setting>
     <Setting Name="QueryUnauthorize" Type="System.String" Scope="Application">
       <Value Profile="(Default)">SELECT [OutTime], [OutPic] FROM [aomen].[dbo].[Park_CarOut] where CardID = '0000000000000000' and OutPic != '' order by OutTime desc</Value>
